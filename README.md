@@ -5,6 +5,8 @@ Tamsin Rogers
 
 Project 8
 
+![GitHub language count](https://img.shields.io/github/languages/count/tamsinrogers/ParallelProgramming)
+
 ├── bold.ppm
 
 ├── colorize
