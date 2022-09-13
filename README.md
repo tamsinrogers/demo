@@ -1,4 +1,4 @@
-# demo
+# ParallelProgramming
 CS333 - Project #8 - README
 Tamsin Rogers
 11/23/21
@@ -6,13 +6,21 @@ Tamsin Rogers
 Project 8
 
 ├── bold.ppm
+
 ├── colorize
+
 ├── colorize.c
+
 ├── image.ppm
+
 ├── my_timing.h
+
 ├── ppmIO.c
+
 ├── ppmIO.h
+
 ├── task1
+
 └── task1.c
 
 
