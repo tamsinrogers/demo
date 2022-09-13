@@ -4,14 +4,23 @@ Tamsin Rogers
 11/23/21
 
 Project 8
+
 ├── bold.ppm
+
 ├── colorize
+
 ├── colorize.c
+
 ├── image.ppm
+
 ├── my_timing.h
+
 ├── ppmIO.c
+
 ├── ppmIO.h
+
 ├── task1
+
 └── task1.c
 
 
