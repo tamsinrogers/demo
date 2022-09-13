@@ -1,4 +1,4 @@
-# demo
+# ParallelProgramming
 CS333 - Project #8 - README
 Tamsin Rogers
 11/23/21
