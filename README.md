@@ -4,6 +4,7 @@ Tamsin Rogers
 11/23/21
 
 Project 8
+
 ├── bold.ppm
 ├── colorize
 ├── colorize.c
